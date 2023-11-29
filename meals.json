@@ -1,0 +1,35 @@
+[
+    {
+        "email": "tiagompedra@gmail.com",
+        "nome": "tiago",
+        "nif": "123123123",
+        "data": "2000-05-20",
+        "horachegada": "19:00",
+        "totalpessoas": 62,
+        "adultos": 6,
+        "criancas": 4,
+        "precototal": 200.0
+    },
+    {
+        "email": "tiagompedra@gmail.com",
+        "nome": "tiago",
+        "nif": "123123123",
+        "data": "2000-05-21",
+        "horachegada": "19:00",
+        "totalpessoas": 12,
+        "adultos": 6,
+        "criancas": 6,
+        "precototal": 225.0
+    },
+    {
+        "email": "tiagompedra@gmail.com",
+        "nome": "tiago",
+        "nif": "123123123",
+        "data": "2023-11-30",
+        "horachegada": "19:00",
+        "totalpessoas": 12,
+        "adultos": 6,
+        "criancas": 6,
+        "precototal": 225.0
+    }
+]

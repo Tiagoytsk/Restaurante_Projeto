@@ -1,0 +1,9 @@
+{
+  "precoadulto": 25, 
+  "precocrianca": 12.5,
+  "mesas" : 16,
+  "ocupacaomaxima": 64,
+  "diadefolga": "segunda-feira",
+  "abertura":"19:00",
+  "fecho":"22:00"
+}
